@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "c2b36e34eea1fd11a71cd4cc",
+  "owner": "csewppcad",
+  "repo": "page-1804e833632af0e7dd93f120",
+  "title": "KuLi云(KuLi)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1804e833632af0e7dd93f120",
+      "a": "KuLi云(KuLi)",
+      "b": "",
+      "entity": "KuLi云(KuLi)",
+      "brand": "KuLi云(KuLi)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "947556e809001f78a184996faff453618a07923ee82219e7547c3685d7a14f08",
+      "content": {
+        "keyword1": "KuLi云(KuLi)",
+        "keyword2": "",
+        "primary_entity": "KuLi云(KuLi)",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "KuLi云(KuLi) 提供清晰透明的网络连接方案。多规格节点池，自主按需订阅，全平台规则接入。",
+          "AI_DESCRIPTION": "KuLi云(KuLi) 提供清晰透明的网络连接方案。多规格节点池，自主按需订阅，全平台规则接入。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: #F8F5EC;color: #173224;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif;line-height: 1.6;padding: 24px 16px}\n.page-container {max-width: 1120px;margin: 0 auto}\nheader.hero {display: grid;grid-template-columns: 2fr 1.2fr;gap: 20px;margin-bottom: 32px}\n.hero-col-left {background-color: #1A382B;color: #F8F5EC;padding: 40px;border-radius: 28px;box-shadow: 0 16px 36px rgba(26, 56, 43, 0.12);display: flex;flex-direction: column;justify-content: space-between}\n.hero-badge {display: inline-block;font-size: 12px;letter-spacing: 2px;text-transform: uppercase;background-color: rgba(248, 245, 236, 0.15);color: #E2DCB8;padding: 4px 12px;border-radius: 20px;margin-bottom: 24px;align-self: flex-start}\nh1 {font-size: 42px;font-weight: 800;line-height: 1.15;letter-spacing: -0.5px;margin-bottom: 24px;color: #FAF6ED}\n.quote-block {border-left: 3px solid #D1C598;padding-left: 18px;margin-top: 20px;font-size: 17px;color: #DFDAC5;font-style: italic;line-height: 1.6}\n.hero-col-right {display: flex;flex-direction: column;gap: 20px}\n.hero-card {background-color: #FFFFFF;padding: 28px;border-radius: 24px;box-shadow: 0 12px 28px rgba(23, 50, 36, 0.05)}\n.hero-card h2 {font-size: 18px;margin-bottom: 12px;color: #1A382B}\n.hero-card p {font-size: 14px;color: #496355;margin-bottom: 16px}\n.embedded-nav {display: flex;flex-wrap: wrap;gap: 10px;margin-top: 8px}\n.nav-chip {display: inline-block;padding: 8px 16px;background-color: #EFE9D7;color: #1A382B;text-decoration: none;font-size: 13px;font-weight: 600;border-radius: 16px}\n.status-card {background-color: #EFE9D7;padding: 24px;border-radius: 24px;box-shadow: 0 8px 20px rgba(23, 50, 36, 0.04)}\n.status-grid {display: grid;grid-template-columns: 1fr 1fr;gap: 16px;margin-top: 12px}\n.status-item span {display: block;font-size: 12px;color: #5C7567}\n.status-item strong {font-size: 18px;color: #1A382B}\nmain {display: flex;flex-direction: column;gap: 48px}\n.section-header {margin-bottom: 20px}\n.section-header h2 {font-size: 26px;font-weight: 700;color: #1A382B}\n.section-header p {font-size: 14px;color: #526E60;margin-top: 4px}\n.plans-duo {display: grid;grid-template-columns: 1fr 1fr;gap: 24px;align-items: stretch}\n.plan-card {background-color: #FFFFFF;border-radius: 28px;padding: 36px 32px;box-shadow: 0 16px 36px rgba(23, 50, 36, 0.06);display: flex;flex-direction: column;position: relative}\n.plan-card.featured {background-color: #1A382B;color: #F8F5EC;border: 2px solid #2F5946}\n.badge-featured {position: absolute;top: 24px;right: 28px;background-color: #E5DCB2;color: #1A382B;font-size: 12px;font-weight: 700;padding: 4px 12px;border-radius: 12px}\n.plan-name {font-size: 20px;font-weight: 700;margin-bottom: 8px}\n.plan-price {font-size: 38px;font-weight: 800;line-height: 1;margin-bottom: 6px}\n.plan-card.featured .plan-price {color: #FAF6ED}\n.plan-annual {font-size: 13px;color: #6C8779;margin-bottom: 24px}\n.plan-card.featured .plan-annual {color: #B5C9BE}\n.plan-features {list-style: none;margin-bottom: 32px;flex-grow: 1}\n.plan-features li {font-size: 14px;padding: 8px 0;border-bottom: 1px solid #F0ECE0}\n.plan-card.featured .plan-features li {border-bottom: 1px solid rgba(255, 255, 255, 0.1)}\n.plan-action {display: block;text-align: center;padding: 14px;border-radius: 18px;text-decoration: none;font-weight: 600;font-size: 14px;background-color: #1A382B;color: #FAF6ED}\n.plan-card.featured .plan-action {background-color: #EFE9D7;color: #1A382B}\n.enterprise-note {margin-top: 16px;background-color: #EFE9D7;padding: 20px 24px;border-radius: 20px;display: flex;justify-content: space-between;align-items: center;box-shadow: 0 8px 20px rgba(23, 50, 36, 0.04)}\n.enterprise-note h3 {font-size: 16px;color: #1A382B;margin-bottom: 4px}\n.enterprise-note p {font-size: 13px;color: #496355}\n.enterprise-tag {font-size: 14px;font-weight: 700;color: #1A382B;white-space: nowrap}\n.guide-grid {display: grid;grid-template-columns: repeat(3, 1fr);gap: 20px}\n.guide-step {background-color: #FFFFFF;padding: 28px;border-radius: 24px;box-shadow: 0 12px 28px rgba(23, 50, 36, 0.05)}\n.step-num {font-size: 13px;font-weight: 800;color: #8C7B47;background-color: #FAF4DF;display: inline-block;padding: 2px 10px;border-radius: 10px;margin-bottom: 14px}\n.guide-step h3 {font-size: 17px;color: #1A382B;margin-bottom: 8px}\n.guide-step p {font-size: 13px;color: #526E60;line-height: 1.5}\n.clients-section {background-color: #FFFFFF;padding: 32px;border-radius: 28px;box-shadow: 0 16px 36px rgba(23, 50, 36, 0.05)}\n.clients-grid {display: grid;grid-template-columns: repeat(4, 1fr);gap: 16px;margin-top: 20px}\n.client-box {background-color: #FAF7F0;padding: 20px;border-radius: 20px;border: 1px solid #ECE6D5}\n.client-box h4 {font-size: 15px;color: #1A382B;margin-bottom: 6px}\n.client-box p {font-size: 12px;color: #637F71;margin-bottom: 12px}\n.client-link {font-size: 12px;font-weight: 600;color: #1A382B;text-decoration: underline}\n.faq-container {display: flex;flex-direction: column;gap: 20px}\n.chat-row {display: flex;flex-direction: column;gap: 10px}\n.bubble {max-width: 82%;padding: 18px 22px;border-radius: 22px;font-size: 14px;line-height: 1.5;box-shadow: 0 8px 20px rgba(23, 50, 36, 0.04)}\n.bubble-q {align-self: flex-end;background-color: #1A382B;color: #FAF6ED;border-bottom-right-radius: 4px;font-weight: 500}\n.bubble-a {align-self: flex-start;background-color: #FFFFFF;color: #1A382B;border-bottom-left-radius: 4px;border: 1px solid #EFEAE0}\nfooter {margin-top: 60px;padding-top: 24px;border-top: 1px solid #E3DCB8;text-align: center;font-size: 12px;color: #6C8779}\n@media (max-width: 768px) {\n  header.hero {grid-template-columns: 1fr}\n  .plans-duo {grid-template-columns: 1fr}\n  .guide-grid {grid-template-columns: 1fr}\n  .clients-grid {grid-template-columns: 1fr 1fr}\n  .enterprise-note {flex-direction: column;align-items: flex-start;gap: 12px}\n  .bubble {max-width: 95%}\n}\n</style><div class=\"page-container\">\n  <header class=\"hero\">\n    <div class=\"hero-col-left\">\n      <div>\n        <span class=\"hero-badge\">Magazine Issue / 01</span>\n        <h1>KuLi云(KuLi)</h1>\n        <div class=\"quote-block\">\n          “连接不应带有冗余修饰。规则定义路径，数据完成交付。稳定是唯一的量度。”\n        </div>\n      </div>\n    </div>\n    <div class=\"hero-col-right\">\n      <div class=\"hero-card\">\n        <h2>速览导引</h2>\n        <p>按功能分区定位所需信息。全部订阅配置均透明展示。</p>\n        <nav class=\"embedded-nav\">\n          <a class=\"nav-chip\" href=\"#plans\">订阅两档对照</a>\n          <a class=\"nav-chip\" href=\"#guide\">三步接入</a>\n          <a class=\"nav-chip\" href=\"#clients\">支持端</a>\n          <a class=\"nav-chip\" href=\"#faq\">问答集</a>\n        </nav>\n      </div>\n      <div class=\"status-card\">\n        <h2>运行中枢</h2>\n        <div class=\"status-grid\">\n          <div class=\"status-item\">\n            <span>在线节点</span>\n            <strong>集群就绪</strong>\n          </div>\n          <div class=\"status-item\">\n            <span>调度状态</span>\n            <strong>全时段可用</strong>\n          </div>\n          <div class=\"status-item\">\n            <span>链路协议</span>\n            <strong>标准兼容</strong>\n          </div>\n          <div class=\"status-item\">\n            <span>工单支持</span>\n            <strong>全天候响应</strong>\n          </div>\n        </div>\n      </div>\n    </div>\n  </header>\n\n  <main>\n    <section id=\"plans\">\n      <div class=\"section-header\">\n        <h2>套餐选配</h2>\n        <p>短约试水，或主力驻留。核心两档对照排布。</p>\n      </div>\n      <div class=\"plans-duo\">\n        <article class=\"plan-card\">\n          <div class=\"plan-name\">基础版</div>\n          <div class=\"plan-price\">¥15<span>/月</span></div>\n          <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n          <ul class=\"plan-features\">\n            <li>每月 100GB 极速流量</li>\n            <li>支持 3 台设备同时在线</li>\n            <li>普通线路节点池接入</li>\n            <li>解锁基础流媒体服务</li>\n          </ul>\n          <a href=\"#\" class=\"plan-action\">选择基础版</a>\n        </article>\n        <article class=\"plan-card featured\">\n          <span class=\"badge-featured\">优先推荐</span>\n          <div class=\"plan-name\">旗舰版</div>\n          <div class=\"plan-price\">¥35<span>/月</span></div>\n          <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n          <ul class=\"plan-features\">\n            <li>每月 300GB 极速流量</li>\n            <li>支持 5 台设备同时在线</li>\n            <li>全节点原生流媒体解锁</li>\n            <li>IPLC 专线游戏加速优化</li>\n            <li>7x24 优先工单技术支持</li>\n          </ul>\n          <a href=\"#\" class=\"plan-action\">选择旗舰版</a>\n        </article>\n      </div>\n      <div class=\"enterprise-note\">\n        <div>\n          <h3>更高吞吐需求？团队版备选</h3>\n          <p>月度 1000GB 流量，支持 20 台设备并发，专享 VIP 高带宽与企业路由定制。</p>\n        </div>\n        <div class=\"enterprise-tag\">¥85/月 · ¥850/年</div>\n      </div>\n    </section>\n\n    <section id=\"guide\">\n      <div class=\"section-header\">\n        <h2>接入流程</h2>\n        <p>三个动作，即刻完成配置同步。</p>\n      </div>\n      <div class=\"guide-grid\">\n        <div class=\"guide-step\">\n          <span class=\"step-num\">Step 01</span>\n          <h3>获取订阅</h3>\n          <p>按需结清套餐。在控制台直接复制对应的专属订阅中继链接。</p>\n        </div>\n        <div class=\"guide-step\">\n          <span class=\"step-num\">Step 02</span>\n          <h3>导入核心</h3>\n          <p>打开常用支持客户端。粘贴中继链接并执行节点列表同步。</p>\n        </div>\n        <div class=\"guide-step\">\n          <span class=\"step-num\">Step 03</span>\n          <h3>策略分流</h3>\n          <p>选择分流规则或指定中转节点。开启系统级网络代理接管。</p>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"clients\" class=\"clients-section\">\n      <div class=\"section-header\">\n        <h2>客户端配置支持</h2>\n        <p>通用协议架构，适配多平台主力内核工具。</p>\n      </div>\n      <div class=\"clients-grid\">\n        <div class=\"client-box\">\n          <h4>Windows</h4>\n          <p>支持 Clash Verge、v2rayN 等通用客户端导入。</p>\n          <a href=\"#\" class=\"client-link\">查看配置指南</a>\n        </div>\n        <div class=\"client-box\">\n          <h4>macOS</h4>\n          <p>适配 Clash Verge Rev、Surge 等主流分流软件。</p>\n          <a href=\"#\" class=\"client-link\">查看配置指南</a>\n        </div>\n        <div class=\"client-box\">\n          <h4>iOS / iPadOS</h4>\n          <p>可配合 Shadowrocket、Loon、Stash 等工具扫码添加。</p>\n          <a href=\"#\" class=\"client-link\">查看配置指南</a>\n        </div>\n        <div class=\"client-box\">\n          <h4>Android</h4>\n          <p>推荐 Clash Meta for Android、v2rayNG 等核心应用。</p>\n          <a href=\"#\" class=\"client-link\">查看配置指南</a>\n        </div>\n      </div>\n    </section>\n\n    <section id=\"faq\">\n      <div class=\"section-header\">\n        <h2>常见问答</h2>\n        <p>利落解答，打消疑虑。</p>\n      </div>\n      <div class=\"faq-container\">\n        <div class=\"chat-row\">\n          <div class=\"bubble bubble-q\">下单后订阅如何生效？</div>\n          <div class=\"bubble bubble-a\">支付完成后几秒内，系统即刻生成独立订阅 URL。复制填入工具即可刷新出节点。</div>\n        </div>\n        <div class=\"chat-row\">\n          <div class=\"bubble bubble-q\">超过套餐内包含的设备数量上限会怎样？</div>\n          <div class=\"bubble bubble-a\">超出限制的新设备将无法建立握手链接。建议根据实际使用终端数挑选对应档位。</div>\n        </div>\n        <div class=\"chat-row\">\n          <div class=\"bubble bubble-q\">旗舰版包含的 IPLC 专线优化有哪些特点？</div>\n          <div class=\"bubble bubble-a\">该节点采用专用物理内网中转，抖动更小，高峰期稳定性更强，适配游戏与实时通信。</div>\n        </div>\n        <div class=\"chat-row\">\n          <div class=\"bubble bubble-q\">月度流量使用完毕后可以提前重置吗？</div>\n          <div class=\"bubble bubble-a\">支持在个人控制中心按需购买加油包或提前结算下周期套餐重置限额。</div>\n        </div>\n      </div>\n    </section>\n  </main>\n\n  <footer>\n    <p>© KuLi云(KuLi). 纯静态设计展示页. 请在当地法律允许范围内合理使用网络服务.</p>\n  </footer>\n</div>",
+          "hash": "ce22413ab321b5762a239a5c5147e1134991fa3e557e786eeccc3c1efd6f4551",
+          "seo": {
+            "title": "KuLi云(KuLi) - 纯粹、稳定且明晰的网络中继服务",
+            "keywords": "KuLi云, KuLi, 网络中继, 流量套餐, 专线中转",
+            "description": "KuLi云(KuLi) 提供清晰透明的网络连接方案。多规格节点池，自主按需订阅，全平台规则接入。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "8354",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "5 奶油黄配墨绿",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "5 两栏对照配推荐标记",
+            "faq_view": "5 对话气泡式问答",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yibnigj.cn",
+    "host": "p-455609ef0d.yibnigj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "e0912b45375057098f9565939ebcfd578788214c932da7e235bb2dd1ffc5a703",
+    "sitemap.xml": "49ed49a3107b01db4d8ad455b79dc3f940678b0c07ba9a96b782746e7dc4b80a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6bd1e2a008382a32346c10e8d1b213e5b7abfa9f675503566f53207be91dd2ec",
+    "robots.txt": "66d1de831691cbd25fe7cbcca5a4c77dbfc5f4c6f3e94ce1d4b13d74745f5420",
+    "639e5ebf56076a56bfd068b8f84c460d.txt": "decb7bba0e4205d2c752ce6130ce1aead2bac7d2c226164633ebb0f3dee48350"
+  },
+  "revision": "edbe54eb5bb0ebc542c144a51a3c1ed42e69eada92391576f6aa7d4c78cf7aa7"
+}
